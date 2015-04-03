@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ASCII"?>
 <JaBot>
-	<Bot name="fredyjabebot" channel="#scbroodsc2" oauth="oauth:qg8g3kplhi9tbyr3qrjjcys6lz4j3pc" />
+	<Bot name="bot" botName="fredyjabebot" channel="#fredyjabe" oauth="oauth:qg8g3kplhi9tbyr3qrjjcys6lz4j3pc" />
 	<Currency name="Currency" onename="Junk piece" multiname="Junk pieces" interval="30" payout="2"/>
 </JaBot>
